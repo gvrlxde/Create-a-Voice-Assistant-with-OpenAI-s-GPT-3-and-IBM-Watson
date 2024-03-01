@@ -7,6 +7,8 @@ Name: Ruth Johana Hutagalung
 
 Program: IBM Advanced AI
 ### :robot: Tech Stack:
+- OpenAI
+- IBM Watson Speech Libraries for Embed
 - JavaScript
 - Python
 - Dockerfile
